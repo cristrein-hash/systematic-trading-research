@@ -188,7 +188,7 @@ This is an active independent research project.
 
 The public repository is intended to document the methodology, architecture and selected research work while keeping proprietary trading rules, credentials, private datasets and production infrastructure outside the public repository.
 
-Additional documentation and sanitized research examples will be added progressively.
+The public repository documents selected methodology, architecture and sanitized research examples derived from the broader private research environment.
 
 ⸻
 
